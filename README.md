@@ -18,7 +18,7 @@ Comfortable working across both **front-end and back-end**, with a practical pro
   <a href="https://github.com/SiranjeeviE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28"/>
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/siranjeevie" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/>
   </a>
 </p>
@@ -72,11 +72,3 @@ Comfortable working across both **front-end and back-end**, with a practical pro
 </p>
 
 ---
-
-## ☕ Support Me
-
-<p align="left">
-  <a href="https://ko-fi.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=white" height="36"/>
-  </a>
-</p>
