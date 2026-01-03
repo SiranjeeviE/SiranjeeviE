@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Siranjeevi E
-
-![Profile Views](https://komarev.com/ghpvc/?username=SiranjeeviE&label=Profile%20views&color=0e75b6&style=flat)
+# Hi, I'm Siranjeevi E
 
 ---
 
@@ -51,24 +49,6 @@ Comfortable working across both **front-end and back-end**, with a practical pro
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiranjeeviE&layout=compact&langs_count=6&theme=react"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiranjeeviE&repo=Elder_Command_Assisstant&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiranjeeviE&repo=Intel_PS07&theme=react"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiranjeeviE&repo=To-do-List&theme=react"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiranjeeviE&repo=Learn-Forum&theme=react"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiranjeeviE&repo=Ticket-Booking&theme=react"/>
 </p>
 
 ---
