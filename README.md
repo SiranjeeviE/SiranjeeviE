@@ -47,8 +47,4 @@ Comfortable working across both **front-end and back-end**, with a practical pro
   <img width="48%" src="https://streak-stats.demolab.com/?user=SiranjeeviE&theme=react"/>
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiranjeeviE&layout=compact&langs_count=6&theme=react"/>
-</p>
-
 ---
