@@ -39,12 +39,3 @@ Comfortable working across both **front-end and back-end**, with a practical pro
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SiranjeeviE&show_icons=true&theme=react"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=SiranjeeviE&theme=react"/>
-</p>
-
----
