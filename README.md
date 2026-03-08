@@ -23,6 +23,7 @@ Comfortable working across both **front-end and back-end**, with a practical pro
 
 ---
 <h2>🚀 Languages and Tools I Use</h2>
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -37,21 +38,3 @@ Comfortable working across both **front-end and back-end**, with a practical pro
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-
-
-## 🛠️ Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="28"/>
-</p>
-
----
