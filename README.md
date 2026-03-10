@@ -76,12 +76,6 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 
 </p>
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50">
-
-</p>
-
 
 #  Areas of Interest
 
