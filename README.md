@@ -11,7 +11,6 @@
 # About Me
 
 I am a **Full-Stack Web Developer and AI Enthusiast** with a strong foundation in computer science and modern web technologies.
-
 I enjoy building **scalable applications, intelligent AI systems, and secure backend architectures** that solve real-world problems.
 
 **Core Interests**
@@ -41,12 +40,6 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 
 </p>
 
----
-
-# Tech Stack
-
-### Programming Languages
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
@@ -54,10 +47,6 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50">
 
 </p>
-
----
-
-### Full Stack Development
 
 <p align="center">
 
@@ -77,10 +66,6 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 
 </p>
 
----
-
-### Databases
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50">
@@ -88,10 +73,6 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50">
 
 </p>
-
----
-
-### Operating System
 
 <p align="center">
 
