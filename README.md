@@ -82,7 +82,6 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 
 </p>
 
----
 
 #  Areas of Interest
 
@@ -90,9 +89,7 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 - AI & Computer Vision Projects  
 - Backend API Development  
 - Secure System Architecture  
-- Database Design & Optimization  
 
----
 
 #  Current Focus
 
