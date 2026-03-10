@@ -8,7 +8,7 @@
 
 
 
-# 👨‍💻 About Me
+# About Me
 
 I am a **Full-Stack Web Developer and AI Enthusiast** with a strong foundation in computer science and modern web technologies.
 
@@ -23,7 +23,7 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 - Performance-Focused Applications  
 
 
-# 🌍 Coding Profiles
+# Coding Profiles
 
 <p align="center">
 
@@ -43,7 +43,7 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Programming Languages
 
@@ -101,7 +101,7 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 
 ---
 
-# 🚀 Areas of Interest
+#  Areas of Interest
 
 - Full-Stack Web Applications  
 - AI & Computer Vision Projects  
@@ -111,7 +111,7 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 - Building modern **Full-Stack applications**
 - Developing **AI-based intelligent systems**
