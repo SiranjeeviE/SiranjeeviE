@@ -26,19 +26,21 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50">
+<a href="https://leetcode.com/u/siranjeevi1408">
+<img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="50">
 </a>
 
-<a href="YOUR_CODEFORCES_LINK">
-<img src="https://sta.codeforces.com/s/0/images/codeforces-logo-with-telegram.png" width="60">
+<a href="https://codeforces.com/profile/siranjeevi1408">
+<img src="https://img.icons8.com/?size=100&id=YSy0lU4Y0X4z&format=png&color=000000" width="60">
 </a>
 
-<a href="YOUR_CODECHEF_LINK">
-<img src="https://cdn.codechef.com/images/cc-logo.svg" width="50">
+<a href="https://www.codechef.com/users/siranjeevi1408">
+<img src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" width="50">
 </a>
 
 </p>
+
+# Tech Stacks
 
 <p align="center">
 
