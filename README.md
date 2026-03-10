@@ -1,4 +1,6 @@
-<img src="./github-banner.png">
+<p align="center">
+<img src="github-header-banner.png" width="200">
+</p>
 <h1 align="center">Hi 👋, I'm Siranjeevi E</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Computer Science Engineer</h3>
 
