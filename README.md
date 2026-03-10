@@ -22,7 +22,6 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 - Secure System Design  
 - Performance-Focused Applications  
 
----
 
 # 🌍 Coding Profiles
 
