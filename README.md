@@ -1,12 +1,12 @@
 <p align="center">
-<img src="github-header-banner.png" width="800">
+<img src="github-header-banner.png" width="850">
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Computer Science Engineer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Secure+and+Scalable+Applications;Always+Learning+New+Technologies"/>
 </p>
 
----
+
 
 # 👨‍💻 About Me
 
