@@ -1,142 +1,124 @@
 <h1 align="center">Hi 👋, I'm Siranjeevi E</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Computer Science Engineer</h3>
 
-<hr>
-
-<h2>👨‍💻 About Me</h2>
-
-<p>
-I am a <b>Full-Stack Web Developer and AI Enthusiast</b> with a strong foundation in computer science and modern web technologies.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Secure+and+Scalable+Applications;Always+Learning+New+Technologies"/>
 </p>
 
-<p>
-I build <b>scalable web applications, intelligent AI systems, and secure backend architectures</b> designed to solve real-world problems.
-My development approach focuses on <b>clean architecture, performance, and reliability</b>.
-</p>
+---
 
-<ul>
-<li>Full-Stack Web Development</li>
-<li>Artificial Intelligence & Machine Learning</li>
-<li>Backend API Development</li>
-<li>Secure System Design</li>
-<li>Performance-Focused Applications</li>
-</ul>
+# 👨‍💻 About Me
 
-<hr>
+I am a **Full-Stack Web Developer and AI Enthusiast** with a strong foundation in computer science and modern web technologies.
 
-<h2>🔗 Connect With Me</h2>
+I enjoy building **scalable applications, intelligent AI systems, and secure backend architectures** that solve real-world problems.
 
-<p>
-<a href="https://github.com/SiranjeeviE" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28">
-</a>
+**Core Interests**
 
-<a href="https://www.linkedin.com/in/siranjeevie" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28">
-</a>
-</p>
+- Full-Stack Web Development  
+- Artificial Intelligence & Machine Learning  
+- Backend API Development  
+- Secure System Design  
+- Performance-Focused Applications  
 
-<hr>
+---
 
-<h2>🌍 Coding Profiles</h2>
-
-<p>
-
-<a href="YOUR_LEETCODE_LINK" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45" height="45">
-</a>
-
-<a href="YOUR_CODEFORCES_LINK" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="45" height="45">
-</a>
-
-<a href="YOUR_CODECHEF_LINK" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45" height="45">
-</a>
-
-</p>
-
-<hr>
-
-<h2>🛠 Tech Stack</h2>
-
-<h3>Programming Languages</h3>
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45">
-</p>
-
-<h3>Full Stack Development</h3>
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45">
-</p>
-
-<h3>Databases</h3>
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45">
-</p>
-
-<h3>Operating System</h3>
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45">
-</p>
-
-<hr>
-
-<h2>🚀 Areas of Interest</h2>
-
-<ul>
-<li>Full-Stack Web Applications</li>
-<li>AI & Computer Vision Projects</li>
-<li>Backend API Development</li>
-<li>Secure System Architecture</li>
-<li>Database Design & Optimization</li>
-</ul>
-
-<hr>
-
-<h2>🎯 Current Focus</h2>
-
-<ul>
-<li>Building modern Full-Stack applications</li>
-<li>Developing AI-based intelligent systems</li>
-<li>Improving backend architecture skills</li>
-<li>Practicing data structures and algorithms</li>
-</ul>
-
-<hr>
-
-<h2 align="center">📊 GitHub Stats</h2>
+# 🌍 Coding Profiles
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SiranjeeviE&show_icons=true&theme=tokyonight">
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50">
+</a>
 
-<br><br>
+<a href="YOUR_CODEFORCES_LINK">
+<img src="https://sta.codeforces.com/s/0/images/codeforces-logo-with-telegram.png" width="60">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiranjeeviE&layout=compact&theme=tokyonight">
+<a href="YOUR_CODECHEF_LINK">
+<img src="https://cdn.codechef.com/images/cc-logo.svg" width="50">
+</a>
 
 </p>
 
-<hr>
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50">
+
+</p>
+
+---
+
+### Full Stack Development
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50">
+
+</p>
+
+---
+
+### Databases
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50">
+
+</p>
+
+---
+
+### Operating System
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50">
+
+</p>
+
+---
+
+# 🚀 Areas of Interest
+
+- Full-Stack Web Applications  
+- AI & Computer Vision Projects  
+- Backend API Development  
+- Secure System Architecture  
+- Database Design & Optimization  
+
+---
+
+# 🎯 Current Focus
+
+- Building modern **Full-Stack applications**
+- Developing **AI-based intelligent systems**
+- Improving **backend architecture**
+- Practicing **Data Structures and Algorithms**
+
+---
 
 <p align="center">
 ⭐ Always learning, building, and improving.
