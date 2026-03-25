@@ -74,25 +74,6 @@ I enjoy building **scalable applications, intelligent AI systems, and secure bac
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50">
 
 </p>
-
-
-#  Areas of Interest
-
-- Full-Stack Web Applications  
-- AI & Computer Vision Projects  
-- Backend API Development  
-- Secure System Architecture  
-
-
-#  Current Focus
-
-- Building modern **Full-Stack applications**
-- Developing **AI-based intelligent systems**
-- Improving **backend architecture**
-- Practicing **Data Structures and Algorithms**
-
----
-
 <p align="center">
 ⭐ Always learning, building, and improving.
 </p>
