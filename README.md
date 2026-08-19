@@ -12,18 +12,18 @@ I'm a **Full-Stack Web Developer and AI Enthusiast** who loves turning ideas int
 
 I'm driven by curiosity and a passion for clean architecture, and I'm always exploring new tools and technologies to build products that are both **efficient** and **impactful**.
 
-🔭 **Currently Working On** — Building secure, scalable full-stack applications and exploring practical AI/ML integrations
-🌱 **Currently Learning** — Advanced system design, cloud-native deployment, and DevOps practices
-🤝 **Looking to Collaborate On** — Open-source projects involving AI, web development, or backend architecture
-💬 **Ask Me About** — Full-stack development, REST APIs, Python, JavaScript, and competitive programming
-⚡ **Fun Fact** — I enjoy solving algorithmic challenges on LeetCode, Codeforces, and CodeChef in my free time
+**Currently Working On** — Building secure, scalable full-stack applications and exploring practical AI/ML integrations
+**Currently Learning** — Advanced system design, cloud-native deployment, and DevOps practices
+**Looking to Collaborate On** — Open-source projects involving AI, web development, or backend architecture
+**Ask Me About** — Full-stack development, REST APIs, Python, JavaScript, and competitive programming
+**Fun Fact** — I enjoy solving algorithmic challenges on LeetCode, Codeforces, and CodeChef in my free time
 
 **Core Interests**
-- 🌐 Full-Stack Web Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔌 Backend API Development
-- 🔒 Secure System Design
-- ⚙️ Performance-Focused Applications
+-  Full-Stack Web Development
+-  Artificial Intelligence & Machine Learning
+-  Backend API Development
+-  Secure System Design
+-  Performance-Focused Applications
 
 # Coding Profiles
 
@@ -90,7 +90,8 @@ I'm driven by curiosity and a passion for clean architecture, and I'm always exp
 <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
-#Connect With Me
+
+# Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/siranjeevie/">
@@ -103,12 +104,3 @@ I'm driven by curiosity and a passion for clean architecture, and I'm always exp
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=siranjeevie&theme=darkhub&no-frame=true&row=1&column=6">
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=siranjeevie&label=Profile%20Views&color=blueviolet&style=flat">
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
